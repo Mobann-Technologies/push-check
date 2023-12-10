@@ -2,3 +2,5 @@ Just checking somethin
 
 See what we can commit
 We are testing branchingg
+We are editing a new file
+
