@@ -15,3 +15,4 @@ State the problem:
 =======
 We want to create a merge conflictt
 >>>>>>> fixit
+Add a new line of code to fix the bug
